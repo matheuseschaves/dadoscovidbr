@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif; /* Mantém a fonte sans-serif */
+    background-color: #f0f0f0; /* Substitua por sua cor de fundo preferida */
+    color: #333; /* Substitua por sua cor de texto preferida */
+}
+
+.custom-title {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.custom-text {
+    font-size: 1.2em;
+    text-align: center;
+    margin-bottom: 40px;
+}
