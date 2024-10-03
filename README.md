@@ -16,3 +16,9 @@ Foi desenvolvida inicialmente como desafio para o DIO-PRO, fiz algumas alteraço
 - CSS
 - Plotly
 - Pandas
+
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
+
+Agradecimentos
+Os dados foram obtidos a partir do repositório wcota/covid19br.
